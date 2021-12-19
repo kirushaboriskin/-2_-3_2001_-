@@ -1,3 +1,4 @@
+![Test](https://github.com/kirushaboriskin/TP-2_TZ-3_2001_-BORISOV/actions/workflows/test.yml/badge.svg)
 # TP-2_TZ-3_2001_-BORISOV
 ## Техническое задание №3.
 
